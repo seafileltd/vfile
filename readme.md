@@ -27,11 +27,12 @@ For example, it’s used in:
     — Complete, fast, standards-based validation for geojson
 
 ## Installation
+> secsed
 
 [npm][]:
 
 ```bash
-npm install vfile
+npm install
 ```
 
 ## Table of Contents
